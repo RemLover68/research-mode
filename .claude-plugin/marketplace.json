@@ -1,5 +1,8 @@
 {
   "name": "assafkip-research-mode",
+  "owner": {
+    "name": "assafkip"
+  },
   "plugins": [
     {
       "name": "research-mode",
